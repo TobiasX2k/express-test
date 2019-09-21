@@ -1,0 +1,24 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "test for express and heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasX2k/express-test.git"
+  },
+  "author": "TobiasX2k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiasX2k/express-test/issues"
+  },
+  "homepage": "https://github.com/TobiasX2k/express-test#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
