@@ -6,17 +6,20 @@ Express-Test is a codebase to help remind myself how to interact with Express an
 
 ## Test Section
 [Link to Website](https://www.google.com).
+
 `code snippet`
+
 [Link to Common Site][commonsite]
+
 [email](mailto:first-last@hotmail.com)
 
 Section Suggestions:
-Description
-Requirements
-Logging
-Key NPM Modules
-Setting Up
-Running Locally
-Contact Us
+- Description
+- Requirements
+- Logging
+- Key NPM Modules
+- Setting Up
+- Running Locally
+- Contact Us
 
 [commonsite]:https://www.hotmail.com
